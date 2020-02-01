@@ -1,6 +1,6 @@
 # FreeCodeCamp Front End Libraries 01-Random Quote Machine
 ### Brief
-* A simple Front-End Page that consumes data from an api https://forismatic.com/en/api/
+* A simple Front-End Page that consumes data from an third-party API https://forismatic.com/en/api/
 ### Live App
 * https://codepen.io/aaaro95/full/bGNPPPz
 ### Built With
