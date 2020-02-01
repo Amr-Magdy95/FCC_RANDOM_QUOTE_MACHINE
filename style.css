@@ -1,0 +1,58 @@
+html, body {
+        height: 100%;
+        margin: 0px;
+}
+
+#wrapper{
+  height: 100%;
+}
+
+#quote-box{
+
+  max-width: 500px;
+  border: 1px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 50px 0;
+  padding: 40px;
+}
+
+#button-box{
+  padding-top: 50px !important;
+}
+
+#button-box div{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#new-quote{
+  float: right;
+  clear: both;
+
+}
+#t
+
+#text, #author{
+  color: #343A40;
+
+}
+#text{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+
+}
+
+#author{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1em;
+}
+
+#author{
+  float: right;
+  clear: right;
+}
